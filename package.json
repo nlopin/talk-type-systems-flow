@@ -1,0 +1,23 @@
+{
+  "name": "talk-type-systems-flow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "flow": "flow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlopin/talk-type-systems-flow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nlopin/talk-type-systems-flow/issues"
+  },
+  "homepage": "https://github.com/nlopin/talk-type-systems-flow#readme",
+  "devDependencies": {
+    "flow-bin": "^0.142.0"
+  }
+}
